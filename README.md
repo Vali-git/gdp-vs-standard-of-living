@@ -1,9 +1,10 @@
 This project analyzes economic data to explore GDP, GNI per capita, investment, and trade patterns among major world economies. Tools used include Pandas, SQLite, and Plotly Express for data cleaning, analysis, and visualization.
 
     Technologies Used
-    • Python • Pandas • Plotly Express • SQLite (in-memory) • Google Colab • Dataset: Kaggle – Global Economy Indicators
-
-
+    • Python • Pandas • Matplotlib • Seaborn • SQLite • Google Colab 
+    Dataset: Kaggle – Global Economy Indicators 
+    • Link:https://www.kaggle.com/datasets/prasad22/global-economy-indicators
+    
 Insights:
 
 I. Contrasting economic philosophies:
